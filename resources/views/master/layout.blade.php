@@ -45,6 +45,12 @@
 .back-to-top:hover{
  opacity: 0.7;
 }
+.footer{
+    background-color:#333;
+    height:auto;
+    color:white;
+}
+
             
     </style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
@@ -85,25 +91,21 @@ $(document).ready(function(){
         <li class="nav-item" @yield('nava')>
                     <a href="/" class="nav-link a1  ml-5 font-weight-bold">Home</a>
                 </li>
-            <li class="nav-item" @yield('nava')>
-                <a href="#about" class="nav-link a1 ml-5 font-weight-bold">Services</a>
+            <li class="nav-item" @yield('navb')>
+                <a href="/service" class="nav-link a1 ml-5 font-weight-bold">Services</a>
             </li>
 
-            <li class="nav-item" @yield('nava')>
-                <a href="#portfolio" class="nav-link a1 ml-5 font-weight-bold">About</a>
+            <li class="nav-item" @yield('navc')>
+                <a href="/about" class="nav-link a1 ml-5 font-weight-bold">About</a>
             </li>
 
-            <li class="nav-item" @yield('nava')>
-                <a href="#pricing" class="nav-link a1 ml-5 font-weight-bold">Contact</a>
+            <li class="nav-item" @yield('navd')>
+                <a href="/contact" class="nav-link a1 ml-5 font-weight-bold">Contact</a>
             </li>
 
-            <li class="nav-item" @yield('nava')>
-                <a href="#contact" class="nav-link a1 ml-5 font-weight-bold">Gallery</a>
+            <li class="nav-item" @yield('nave')>
+                <a href="/gallery" class="nav-link a1 ml-5 font-weight-bold">Gallery</a>
             </li>
-
-            
-
-            
 
 
         </ul>
@@ -111,8 +113,63 @@ $(document).ready(function(){
 </nav>
 
 @yield('content')
+
 <!-- Back to top -->
 <a href="#" class="back-to-top"><i class="fas fa-arrow-circle-up fa-3x text-dark-50"></i></a>
+
+<footer class="footer">
+<div class="div container container-sm ">
+<div class="row text-white py-5">
+<div class="col-12 col-lg-4 col-md-5  mt-5">
+<h5 class="text-white">About</h5>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque facere</p>
+<p>laudantium magnam voluptatum autem.</p>
+<p>Amet aliquid nesciunt veritatis aliquam.</p>
+</div>
+<div class="col-12 col-md-3 col-lg-3 mt-5 mb-5  ">
+<h5 class="text-white">QUICK LINKS</h5>
+<ul class="text-white ul mt-4 m-0 p-0" style="list-style-type:none;">
+<li class="mb-3"><a href="" style="text-decoration:none" class="text-white ">About Us</a></li>
+<li class="mb-3"><a href="" style="text-decoration:none" class="text-white ">Services</a></li>
+<li class="mb-3"><a href="" style="text-decoration:none" class="text-white ">Testimonials</a></li>
+<li class="mb-3"><a href="" style="text-decoration:none" class="text-white ">Contact Us</a></li>
+</ul>
+</div>
+<div class="col-12  col-lg-4 col-md-4 mt-5  mb-5 ">
+<h5 class="text-white">SUBSCRIBE NEWSLETTER</h5>
+<form>
+<div class="input-group mb-b mt-4">
+<input type="text" placeholder="Enter Email" class="form-control border-secondary text-white bg-transparent">
+<div class="input-group-append">
+<button class="btn btn-success" type="button" id="">send</button>
+</div>
+
+</div>
+
+</form>
+
+<h5 class="text-white mt-4 mb-3 ">FOLLOW US</h5>
+
+<a href="" class=" ">
+            <i class="fab fa-linkedin-in text-white" style="font-size: 25px"></i>
+        </a>
+        <a href="" class="ml-4 ">
+            <i class="fab fa-facebook-f text-white" style="font-size: 25px"></i>
+        </a>
+        
+        <a href="" class="ml-4 ">
+            <i class="fab fa-instagram text-white" style="font-size: 25px"></i>
+        </a>
+<a href="" class="ml-4 ">
+            <i class="fab fa-github text-white" style="font-size: 25px"></i>
+        </a>
+</div>
+</div>
+</div>
+<hr class="">
+<h6 class="text-white text-center mt-5 py-5">Copyright ©2021 All rights reserved</h6>
+</footer>
+
 <script>
   AOS.init();
 </script>
