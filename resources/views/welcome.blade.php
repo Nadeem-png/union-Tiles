@@ -18,22 +18,25 @@
     <div class="carousel-item active">
       <img src="{{asset('image/img5.jpg')}}" alt="Los Angeles" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Los Angeles</h3>
+        <h1>Buy And Sall Here</h1>
         <p>We had such a great time in LA!</p>
+        <button class="btn btn-success px-4 py-2">Get started</button>
       </div>   
     </div>
     <div class="carousel-item">
       <img src="{{asset('image/img4.jpg')}}" alt="Chicago" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Chicago</h3>
-        <p>Thank you, Chicago!</p>
+      <h1>Buy And Sall Here</h1>
+        <p>We had such a great time in LA!</p>
+        <button class="btn btn-success px-4 py-2">Get started</button>
       </div>   
     </div>
     <div class="carousel-item">
       <img src="{{asset('image/img3.jpg')}}" alt="New York" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>New York</h3>
-        <p>We love the Big Apple!</p>
+      <h1>Buy And Sall Here</h1>
+        <p>We had such a great time in LA!</p>
+        <button class="btn btn-success px-4 py-2">Get started</button>
       </div>   
     </div>
   </div>
@@ -44,6 +47,71 @@
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
+<div class="container container-sm mt-5">
+<div class="row">
+<div class="col-12 col-lg-4 col-md-6 mb-2">
+<div class="card h-100 ">
+                <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
+                <div class="card-body">
+                <h4 class="card-title">HD17 19 UTICA</h4>
+                    <p class="card-text">New York - USA</p>
+                    <p>$2000</p>
+                </div>
+            </div>
+</div>
+<div class="col-12 col-lg-4 col-md-6 mb-2">
+<div class="card h-100">
+                <img class="card-img-top" src="{{asset('image/img8.jpg')}}" alt="Card image" style="width:100%">
+                <div class="card-body">
+                <h4 class="card-title">HD17 19 UTICA</h4>
+                    <p class="card-text">New York - USA</p>
+                    <p>$2000</p>
+                </div>
+            </div>
+</div>
+<div class="col-12 col-lg-4 col-md-6">
+<div class="card h-100">
+                <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
+                <div class="card-body">
+                <h4 class="card-title">HD17 19 UTICA</h4>
+                    <p class="card-text">New York - USA</p>
+                    <p>$2000</p>
+                </div>
+            </div>
+</div>
+<div class="col-12 col-lg-4 col-md-6 mb-2">
+<div class="card h-100 ">
+                <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
+                <div class="card-body">
+                <h4 class="card-title">HD17 19 UTICA</h4>
+                    <p class="card-text">New York - USA</p>
+                    <p>$2000</p>
+                </div>
+            </div>
+</div>
+<div class="col-12 col-lg-4 col-md-6 mb-2">
+<div class="card h-100">
+                <img class="card-img-top" src="{{asset('image/img8.jpg')}}" alt="Card image" style="width:100%">
+                <div class="card-body">
+                <h4 class="card-title">HD17 19 UTICA</h4>
+                    <p class="card-text">New York - USA</p>
+                    <p>$2000</p>
+                </div>
+            </div>
+</div>
+<div class="col-12 col-lg-4 col-md-6">
+<div class="card h-100">
+                <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
+                <div class="card-body">
+                <h4 class="card-title">HD17 19 UTICA</h4>
+                    <p class="card-text">New York - USA</p>
+                    <p>$2000</p>
+                </div>
+            </div>
+</div>
+</div>
+</div>
+
 
 <div class="contact bg-light" style="background-color:#ccc;">
 <div class="container py-5">
