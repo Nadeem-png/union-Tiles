@@ -113,6 +113,38 @@
 </div>
 </div>
 
+<div class="container container-sm mt-5">
+       <h1 class="text-center" style="color: rgb(55,207,162);margin-top: 200px">Customers</h1>
+       <div class="row ">
+           <div class="col-12 col-lg-6 col-md-6">
+               <img src="{{asset('image/man1.webp')}}" class="rounded-circle" alt="Cinque Terre" width="75" height="75">
+               <h6 class="d-inline ml-4">ALLISON HOLMES</h6>
+               <p class="mt-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, mollitia. Possimus mollitia nobis libero quidem aut tempore dolore iure maiores, perferendis, provident numquam illum nisi amet necessitatibus. A, provident aperiam!</p>
+           </div>
+
+           <div class="col-12 col-lg-6 col-md-6">
+               <img src="{{asset('image/man2.webp')}}" class="rounded-circle" alt="Cinque Terre" width="75" height="75">
+               <h6 class="d-inline ml-4">JAMES PHELPS</h6>
+               <p class="mt-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, mollitia. Possimus mollitia nobis libero quidem aut tempore dolore iure maiores, perferendis, provident numquam illum nisi amet necessitatibus. A, provident aperiam!</p>
+           </div>
+
+           
+               <div class="col-12 col-lg-6 col-md-6">
+                   <img src="{{asset('image/man3.webp')}}" class="rounded-circle" alt="Cinque Terre" width="75" height="75">
+                   <h6 class="d-inline ml-4">NESTOR HELSIN</h6>
+                   <p class="mt-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, mollitia. Possimus mollitia nobis libero quidem aut tempore dolore iure maiores, perferendis, provident numquam illum nisi amet necessitatibus. A, provident aperiam!</p>
+               </div>
+
+               <div class="col-12 col-lg-6 col-md-6">
+                   <img src="{{asset('image/man1.webp')}}" class="rounded-circle" alt="Cinque Terre" width="75" height="75">
+                   <h6 class="d-inline ml-4">ALLISON HOLMES</h6>
+                   <p class="mt-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, mollitia. Possimus mollitia nobis libero quidem aut tempore dolore iure maiores, perferendis, provident numquam illum nisi amet necessitatibus. A, provident aperiam!</p>
+               </div>
+
+           
+
+       </div>
+   </div>
 
 <div class="contact bg-light" style="background-color:#ccc;">
 <div class="container py-5">
