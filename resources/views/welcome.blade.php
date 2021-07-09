@@ -4,7 +4,7 @@
         /* Make the image fully responsive */
   .carousel-inner img {
     width: 100%;
-    height: 100%;
+    height: 700px;
   }
     </style>
 
@@ -18,24 +18,22 @@
     <div class="carousel-item active">
       <img src="{{asset('image/img5.jpg')}}" class="img-fluid" alt="Los Angeles" width="1100" height="700">
       <div class="carousel-caption">
-        <h1>Buy And Sall Here</h1>
-        <p>We had such a great time in LA!</p>
+      <h3>Buy And Sall Here</h3>
         <button class="btn btn-success px-4 py-2">Get started</button>
       </div>   
     </div>
     <div class="carousel-item">
       <img src="{{asset('image/img4.jpg')}}" class="img-fluid" alt="Chicago" width="1100" height="700">
       <div class="carousel-caption">
-      <h1>Buy And Sall Here</h1>
-        <p>We had such a great time in LA!</p>
+      <h3>Buy And Sall Here</h3>
+        
         <button class="btn btn-success px-4 py-2">Get started</button>
       </div>   
     </div>
     <div class="carousel-item">
       <img src="{{asset('image/img3.jpg')}}" class="img-fluid" alt="New York" width="1100" height="700">
       <div class="carousel-caption">
-      <h1>Buy And Sall Here</h1>
-        <p>We had such a great time in LA!</p>
+      <h3>Buy And Sall Here</h3>
         <button class="btn btn-success px-4 py-2">Get started</button>
       </div>   
     </div>
