@@ -16,7 +16,7 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{asset('image/img5.jpg')}}" alt="Los Angeles" width="1100" height="500">
+      <img src="{{asset('image/img5.jpg')}}" class="img-fluid" alt="Los Angeles" width="1100" height="700">
       <div class="carousel-caption">
         <h1>Buy And Sall Here</h1>
         <p>We had such a great time in LA!</p>
@@ -24,7 +24,7 @@
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="{{asset('image/img4.jpg')}}" alt="Chicago" width="1100" height="500">
+      <img src="{{asset('image/img4.jpg')}}" class="img-fluid" alt="Chicago" width="1100" height="700">
       <div class="carousel-caption">
       <h1>Buy And Sall Here</h1>
         <p>We had such a great time in LA!</p>
@@ -32,7 +32,7 @@
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="{{asset('image/img3.jpg')}}" alt="New York" width="1100" height="500">
+      <img src="{{asset('image/img3.jpg')}}" class="img-fluid" alt="New York" width="1100" height="700">
       <div class="carousel-caption">
       <h1>Buy And Sall Here</h1>
         <p>We had such a great time in LA!</p>
