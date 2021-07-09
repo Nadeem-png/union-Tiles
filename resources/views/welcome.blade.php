@@ -6,6 +6,14 @@
     width: 100%;
     height: 650px;
   }
+  .bg{
+            background-color: rgb(55,207,162);
+            height:auto;
+        }
+        .div3{
+         background-color:#ccc;
+         height:auto;
+        }
     </style>
 
 <div id="demo" class="carousel slide" data-ride="carousel">
@@ -70,7 +78,7 @@
                 </div>
             </div>
 </div>
-<div class="col-12 col-lg-4 col-md-6">
+<div class="col-12 col-lg-4 col-md-6 mb-2">
 <div class="card h-100">
                 <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
@@ -100,7 +108,7 @@
                 </div>
             </div>
 </div>
-<div class="col-12 col-lg-4 col-md-6">
+<div class="col-12 col-lg-4 col-md-6 mb-2 ">
 <div class="card h-100">
                 <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
@@ -112,6 +120,155 @@
 </div>
 </div>
 </div>
+
+<div class="container container-sm mt-5">
+<h1 style="color: rgb(55,207,162)" class="py-3">Company Owner</h1>
+<div class="row">
+<div class="col-12 col-lg-4 col-md-4 mb-3">
+<img src="{{asset('image/owner1.jpg')}}" alt="" class="img-fluid">
+<div class="p-4" style="background-color:#37cfa2;">
+<h4>NAME</h4>
+<p>Lorem ipsum dolor sit amet consectetur</p>
+</div>
+</div>
+<div class="col-12 col-lg-4 col-md-4 mb-3">
+<img src="{{asset('image/owner2.jpg')}}" alt="" class="img-fluid">
+<div class="p-4" style="background-color:#37cfa2;">
+<h4>NAME</h4>
+<p>Lorem ipsum dolor sit amet consectetur</p>
+</div>
+</div>
+<div class="col-12 col-lg-4 col-md-4 mb-3">
+<img src="{{asset('image/owner.jpg')}}" alt="" class="img-fluid">
+<div class="p-4" style="background-color:#37cfa2;">
+<h4>NAME</h4>
+<p>Lorem ipsum dolor sit amet consectetur</p>
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="bg">
+    <h1 class="text-center py-5 mb-3">HOW IT WORKS</h1>
+ <div class="row container-fluid">
+    <div class="col-12 col-lg-4 col-md-4 mb-4">
+        <center>
+         <i class="fas fa-home fa-2x mb-2"></i>
+         <h6 class="mb-3">FIND PROPERTY.</h6>
+         <p class="">Lorem ipsum dolor sit amet consectetur <br> adipisicing elit.</p>
+        </center>
+    </div>
+
+     <div class="col-12 col-lg-4 col-md-4 mb-4">
+         <center>
+             <i class="fas fa-dollar-sign fa-2x mb-2"></i>
+             <h6 class="mb-3">BUY PROPERTY.</h6>
+             <p class="">Lorem ipsum dolor sit amet consectetur <br> adipisicing elit.</p>
+         </center>
+     </div>
+
+     <div class="col-12 col-lg-4 col-md-4 mb-4">
+         <center>
+             <i class="fas fa-warehouse fa-2x mb-2 "></i>
+             <h6 class="mb-3">OUTSTANDING HOUSES.</h6>
+             <p class="">Lorem ipsum dolor sit amet consectetur <br> adipisicing elit.</p>
+         </center>
+     </div>
+ </div>
+</div>
+<div class="container mt-5 container-sm">
+<div class="row">
+<div class="col-12 col-lg-5 col-md-5 mb-3">
+<img src="{{asset('image/img3.jpg')}}" alt="" class="img-fluid">
+</div>
+<div class="col-12 col-lg-7 col-md-7 mb-4">
+<h1 style="color: rgb(55,207,162)" class="ml-5 mb-3">About</h1>
+<h5>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h5>
+<h5>Est qui eos quasi ratione nostrum excepturi id recusandae fugit omnis ullam pariatur itaque nisi voluptas impedit Quo suscipit omnis iste velit maxime.</h5>
+<h5>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h5>
+<h5>Est qui eos quasi ratione nostrum excepturi id recusandae fugit omnis ullam pariatur itaque nisi voluptas impedit Quo suscipit omnis iste velit maxime.</h5>
+</div>
+</div>
+
+</div>
+
+
+  <div class="div3 bg-light">
+  <div class="container container-sm mt-5">
+  <h1 class="text-center py-5" style="color: rgb(55,207,162)">SERVICES</h1>
+  <div class="row">
+  <div class="col-12 col-lg-4 col-md-6 mb-3">
+  <div class="container">
+  <div class="row">
+  <div class="col-3 "></div>
+  <div class="col-9 ">
+  <h3>FIND PROPERTY</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  <div class="col-12 col-lg-4 col-md-6 mb-3">
+  <div class="container">
+  <div class="row">
+  <div class="col-3 "></div>
+  <div class="col-9 ">
+  <h3>BUY PROPERTY</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  <div class="col-12 col-lg-4 col-md-6 mb-3">
+  <div class="container">
+  <div class="row">
+  <div class="col-3 "></div>
+  <div class="col-9 ">
+  <h3>BEAUTIFUL HOME</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  <div class="col-12 col-lg-4 col-md-6 mb-3">
+  <div class="container">
+  <div class="row">
+  <div class="col-3 "></div>
+  <div class="col-9 ">
+  <h3>FIND PROPERTY</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  <div class="col-12 col-lg-4 col-md-6 mb-3">
+  <div class="container">
+  <div class="row">
+  <div class="col-3 "></div>
+  <div class="col-9 ">
+  <h3>BUY PROPERTY</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  <div class="col-12 col-lg-4 col-md-6 mb-3">
+  <div class="container">
+  <div class="row">
+  <div class="col-3 "></div>
+  <div class="col-9 ">
+  <h3>BEAUTIFUL HOME</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+
 
 <div class="container container-sm mt-5">
        <h1 class="text-center" style="color: rgb(55,207,162);margin-top: 200px">Customers</h1>
@@ -145,10 +302,12 @@
 
        </div>
    </div>
+  
 
+  
 <div class="contact bg-light" style="background-color:#ccc;">
 <div class="container py-5">
-<h1 class="text-center mt-5" style="color:#079992">Contact-us</h1>
+<h1 class="text-center mt-5" style="color: rgb(55,207,162)">Contact-us</h1>
 <div class="row">
 <div class="col-12 col-lg-7 col-md-6 mt-5">
 <div class="card p-5">
