@@ -201,7 +201,9 @@
   <div class="col-12 col-lg-4 col-md-6 mb-3">
   <div class="container">
   <div class="row">
-  <div class="col-3 "></div>
+  <div class="col-3 ">
+<img src="{{asset('image/kitchen.png')}}" class="img-fluid" alt="Los Angeles">
+</div>
   <div class="col-9 ">
   <h3>FIND PROPERTY</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
@@ -212,7 +214,8 @@
   <div class="col-12 col-lg-4 col-md-6 mb-3">
   <div class="container">
   <div class="row">
-  <div class="col-3 "></div>
+  <div class="col-3 ">
+</div>
   <div class="col-9 ">
   <h3>BUY PROPERTY</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
@@ -234,7 +237,9 @@
   <div class="col-12 col-lg-4 col-md-6 mb-3">
   <div class="container">
   <div class="row">
-  <div class="col-3 "></div>
+  <div class="col-3 ">
+<img src="{{asset('image/tiles.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
+</div>
   <div class="col-9 ">
   <h3>FIND PROPERTY</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
@@ -245,7 +250,9 @@
   <div class="col-12 col-lg-4 col-md-6 mb-3">
   <div class="container">
   <div class="row">
-  <div class="col-3 "></div>
+  <div class="col-3 ">
+<img src="{{asset('image/cupboard.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
+</div>
   <div class="col-9 ">
   <h3>BUY PROPERTY</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
@@ -256,7 +263,9 @@
   <div class="col-12 col-lg-4 col-md-6 mb-3">
   <div class="container">
   <div class="row">
-  <div class="col-3 "></div>
+  <div class="col-3 ">
+<img src="{{asset('image/workspace.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
+</div>
   <div class="col-9 ">
   <h3>BEAUTIFUL HOME</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
