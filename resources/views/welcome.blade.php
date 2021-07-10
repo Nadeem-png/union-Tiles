@@ -179,11 +179,11 @@
 </div>
 <div class="container mt-5 container-sm">
 <div class="row">
-<div class="col-12 col-lg-5 col-md-5 mb-3">
+<div class="col-12 col-lg-5 col-md-5 mb-3 mt-5">
 <img src="{{asset('image/img3.jpg')}}" alt="" class="img-fluid">
 </div>
 <div class="col-12 col-lg-7 col-md-7 mb-4">
-<h1 style="color: rgb(55,207,162)" class="ml-5 mb-3">About</h1>
+<h1 style="color: rgb(55,207,162)" class=" mb-3">About</h1>
 <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h5>
 <h5>Est qui eos quasi ratione nostrum excepturi id recusandae fugit omnis ullam pariatur itaque nisi voluptas impedit Quo suscipit omnis iste velit maxime.</h5>
 <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h5>
@@ -205,7 +205,7 @@
 <img src="{{asset('image/kitchen.png')}}" class="img-fluid" alt="Los Angeles">
 </div>
   <div class="col-9 ">
-  <h3>FIND PROPERTY</h3>
+  <h3>Kitchen Work</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
   </div>
   </div>
@@ -218,7 +218,7 @@
 <img src="{{asset('image/bedroom.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
 </div>
   <div class="col-9 ">
-  <h3>BUY PROPERTY</h3>
+  <h3>BedRoom Work</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
   </div>
   </div>
@@ -228,10 +228,10 @@
   <div class="container">
   <div class="row">
   <div class="col-3 ">
-<img src="{{asset('image/toilet.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
+<img src="{{asset('image/tower.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
 </div>
   <div class="col-9 ">
-  <h3>BEAUTIFUL HOME</h3>
+  <h3>Electricity Work</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
   </div>
   </div>
@@ -244,7 +244,7 @@
 <img src="{{asset('image/tile.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
 </div>
   <div class="col-9 ">
-  <h3>FIND PROPERTY</h3>
+  <h3>Lay The Tiles</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
   </div>
   </div>
@@ -257,7 +257,7 @@
 <img src="{{asset('image/cupboard.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
 </div>
   <div class="col-9 ">
-  <h3>BUY PROPERTY</h3>
+  <h3>Cupboard Work</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
   </div>
   </div>
@@ -270,7 +270,49 @@
 <img src="{{asset('image/workspace.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
 </div>
   <div class="col-9 ">
-  <h3>BEAUTIFUL HOME</h3>
+  <h3>PC Table</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  
+  <div class="col-12 col-lg-4 col-md-6 mb-3">
+  <div class="container">
+  <div class="row">
+  <div class="col-3 ">
+<img src="{{asset('image/toilet.png')}}" class="img-fluid" alt="Los Angeles">
+</div>
+  <div class="col-9 ">
+  <h3>Toilets Work</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  
+  <div class="col-12 col-lg-4 col-md-6 mb-3">
+  <div class="container">
+  <div class="row">
+  <div class="col-3 ">
+<img src="{{asset('image/tiles.png')}}" class="img-fluid" alt="Los Angeles">
+</div>
+  <div class="col-9 ">
+  <h3>Lay The Stone</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  </div>
+  </div>
+  </div>
+  </div>
+  
+  <div class="col-12 col-lg-4 col-md-6 mb-3">
+  <div class="container">
+  <div class="row">
+  <div class="col-3 ">
+<img src="{{asset('image/pollution.png')}}" class="img-fluid" alt="Los Angeles">
+</div>
+  <div class="col-9 ">
+  <h3>Sewerage Work</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
   </div>
   </div>
