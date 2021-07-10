@@ -228,7 +228,7 @@
   <div class="container">
   <div class="row">
   <div class="col-3 ">
-<img src="{{asset('image/stone-floor.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
+<img src="{{asset('image/toilet.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
 </div>
   <div class="col-9 ">
   <h3>BEAUTIFUL HOME</h3>
