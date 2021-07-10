@@ -215,6 +215,7 @@
   <div class="container">
   <div class="row">
   <div class="col-3 ">
+<img src="{{asset('image/bedroom.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
 </div>
   <div class="col-9 ">
   <h3>BUY PROPERTY</h3>
@@ -226,7 +227,9 @@
   <div class="col-12 col-lg-4 col-md-6 mb-3">
   <div class="container">
   <div class="row">
-  <div class="col-3 "></div>
+  <div class="col-3 ">
+<img src="{{asset('image/stone-floor.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
+</div>
   <div class="col-9 ">
   <h3>BEAUTIFUL HOME</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
@@ -238,7 +241,7 @@
   <div class="container">
   <div class="row">
   <div class="col-3 ">
-<img src="{{asset('image/tiles.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
+<img src="{{asset('image/tile.png')}}" class="img-fluid" alt="Los Angeles" width="" height="">
 </div>
   <div class="col-9 ">
   <h3>FIND PROPERTY</h3>
