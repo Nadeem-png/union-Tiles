@@ -78,7 +78,7 @@ $(document).ready(function(){
 </script>
 </head>
 <body style="">
-<nav class="navbar nav1 fixed-top  navbar-expand-lg"style="padding:0px 10px;background-color:#2f3640 ">
+<nav class="navbar nav1 fixed-top   navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640 ">
 <div class="w-25">
         <a href="/" class="navbar-brand">
             <img src="{{asset('image/KINGS Board and GRANITE.png')}}" class="img-fluid  " style="margin-left:50px;width:60px; height:60px">
@@ -86,7 +86,7 @@ $(document).ready(function(){
     </div>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars text-white"></i></button>
   
-    <div class="navbar-collapse   collapse" id="mynav">
+    <div class="navbar-collapse  collapse" id="mynav">
         <ul class="navbar-nav mt-3">
         <li class="nav-item" @yield('nava')>
                     <a href="/" class="nav-link a1  ml-5 font-weight-bold">Home</a>
