@@ -115,7 +115,7 @@ $(document).ready(function(){
 @yield('content')
 
 <!-- Back to top -->
-<a href="#" class="back-to-top"><i class="fas fa-arrow-circle-up fa-3x text-success"></i></a>
+<a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-2x text-center p-2 text-dark" style="background-color:rgb(55,207,162);" ></i></a>
 
 <footer class="footer">
 <div class="div container container-sm ">
