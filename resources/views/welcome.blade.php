@@ -28,7 +28,7 @@
       <div class="carousel-caption">
       <h3>Buy And Sall Here</h3>
       <p>We had such a great time in LA!</p>
-        <button class="btn btn-success px-4 py-2">Get started</button>
+        <button class="btn text-white px-4 py-2" style=" background-color: rgb(55,207,162)">Get started</button>
       </div>   
     </div>
     <div class="carousel-item">
@@ -37,7 +37,7 @@
       <h3>Buy And Sall Here</h3>
       <p>We had such a great time in LA!</p>
         
-        <button class="btn btn-success px-4 py-2">Get started</button>
+        <button class="btn text-white px-4 py-2" style=" background-color: rgb(55,207,162)">Get started</button>
       </div>   
     </div>
     <div class="carousel-item">
@@ -45,7 +45,7 @@
       <div class="carousel-caption">
       <h3>Buy And Sall Here</h3>
       <p>We had such a great time in LA!</p>
-        <button class="btn btn-success px-4 py-2">Get started</button>
+        <button class="btn px-4 py-2 text-white" style=" background-color: rgb(55,207,162)">Get started</button>
       </div>   
     </div>
   </div>
@@ -337,9 +337,9 @@
 <div class="card p-4">
 <div class="card-text">
 <h4>Address</h4>
-<p>203 Fake St. Mountain View, San Francisco, California, USA</p>
+<p>Location: Shed 3, 13 Hawthorne street kokstad, south Africa</p>
 <h4>Phone</h4>
-<p style="color:#079992">+1 232 3235 324</p>
+<p style="color:#079992">+880717454141</p>
 <h4>Email Address</h4>
 <p style="color:#079992">youremail@domain.com</p>
 </div>

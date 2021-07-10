@@ -31,7 +31,7 @@
 <div class="bg-contact">
 <div data-aos="fade-up"
      data-aos-anchor-placement="center-center">
-     <h1 class="text-center p-4 mt-5 w-100">About us</h1>
+     <h1 class="text-center p-5 mt-5 w-100">About us</h1>
 </div>
 
 </div>

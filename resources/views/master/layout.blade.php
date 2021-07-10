@@ -141,7 +141,7 @@ $(document).ready(function(){
 <div class="input-group mb-b mt-4">
 <input type="text" placeholder="Enter Email" class="form-control border-secondary text-white bg-transparent">
 <div class="input-group-append">
-<button class="btn btn-success" type="button" id="">send</button>
+<button class="btn text-white" type="button" id="" style=" background-color: rgb(55,207,162)">send</button>
 </div>
 
 </div>
@@ -150,24 +150,33 @@ $(document).ready(function(){
 
 <h5 class="text-white mt-4 mb-3 ">FOLLOW US</h5>
 
-<a href="" class=" ">
-            <i class="fab fa-linkedin-in text-white" style="font-size: 25px"></i>
+<a href="https://www.facebook.com/585467618175415/posts/4007273682661441/" class=" ">
+            <i class="fab fa-twitter text-white" style="font-size: 20px"></i>
         </a>
-        <a href="" class="ml-4 ">
-            <i class="fab fa-facebook-f text-white" style="font-size: 25px"></i>
+        <a href="https://www.facebook.com/1512917762095055/posts/4083165538403585/" class="ml-4 ">
+            <i class="fab fa-facebook-f text-white" style="font-size: 20px"></i>
         </a>
         
         <a href="" class="ml-4 ">
-            <i class="fab fa-instagram text-white" style="font-size: 25px"></i>
+            <i class="fab fa-instagram text-white" style="font-size: 20px"></i>
         </a>
 <a href="" class="ml-4 ">
-            <i class="fab fa-github text-white" style="font-size: 25px"></i>
+            <i class="fab fa-linkedin-in text-white" style="font-size: 20px"></i>
         </a>
 </div>
 </div>
 </div>
-<hr class="">
-<h6 class="text-white text-center mt-5 py-5">Copyright ©2021 All rights reserved</h6>
+<hr class="bg-dark-50">
+<div class="container">
+<div class="row py-4">
+<div class="col-12 col-lg-5 text-center">
+<img src="{{asset('image/KINGS Board and GRANITE.png')}}" alt="" class="img-fluid bg-white" width="40%" height="100px">
+</div>
+<div class="col-12 col-lg-7 text-center mt-4">
+<p>All Rights Reserved By King Board & Granite &copy; 2021</p>
+</div>
+</div>
+</div>
 </footer>
 
 <script>
