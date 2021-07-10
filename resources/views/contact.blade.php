@@ -42,7 +42,7 @@
      data-aos-duration="3000">
      <div class="row">
       <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 mt-2">
-    <h1 class="mb-3" style="margin-top: 100px">Get in touch</h1>
+    <h1 class="mb-3" style="margin-top:30px">Get in touch</h1>
         <h6>Tell us about your projects, we are excited <br> to hear from you</h6>
         <h4>Address</h4>
 <p>Location: Shed 3, 13 Hawthorne street kokstad, south Africa</p>
@@ -72,8 +72,8 @@
 
 </div>
 </div>
-<div class="container mt-5 text-center">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.714110132857!2d29.422117815127198!3d-30.557380381698632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMzJzI2LjYiUyAyOcKwMjUnMjcuNSJF!5e0!3m2!1sen!2s!4v1625908293368!5m2!1sen!2s" width="70%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<div class="container mt-5 text-lg-center">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.714110132857!2d29.422117815127198!3d-30.557380381698632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMzJzI2LjYiUyAyOcKwMjUnMjcuNSJF!5e0!3m2!1sen!2s!4v1625908293368!5m2!1sen!2s" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 <hr>
 <p class="py-4 text-center">
