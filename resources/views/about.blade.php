@@ -10,7 +10,7 @@
             
             .div6{
              height: auto;
-                background-color: #1b4b72;
+                background-color:rgb(55,207,162);
             }
            .div4{
             height: auto;
