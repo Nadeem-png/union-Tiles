@@ -81,7 +81,7 @@ $(document).ready(function(){
 <nav class="navbar nav1 fixed-top  navbar-expand-lg"style="padding:0px 10px;background-color:#2f3640 ">
 <div class="w-25">
         <a href="/" class="navbar-brand">
-            <img src="{{asset('')}}" class="img-fluid rounded-circle " style="margin-left:50px;width:60px; height:60px">
+            <img src="{{asset('image/KINGS Board and GRANITE.png')}}" class="img-fluid  " style="margin-left:50px;width:60px; height:60px">
         </a>
     </div>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars text-white"></i></button>
