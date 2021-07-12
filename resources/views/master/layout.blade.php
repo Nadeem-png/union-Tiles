@@ -125,17 +125,20 @@ $(document).ready(function(){
 <div class="row text-white py-5">
 <div class="col-12 col-lg-4 col-md-5  mt-5">
 <h5 class="text-white">About</h5>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque facere</p>
-<p>laudantium magnam voluptatum autem.</p>
-<p>Amet aliquid nesciunt veritatis aliquam.</p>
+<p>We got All Colored
+ 		Board And Granite
+      We CuttingYour Board Your Measurements
+   We Supply All Type Of Meterial For Your House</p>
+<p>We Make All Type Of Tables (PC Table, Daining Table etc) ANd All Colored Board
+. We Make Your TV Lanch With Your Requiements</p>
 </div>
 <div class="col-12 col-md-3 col-lg-3 mt-5 mb-5  ">
 <h5 class="text-white">QUICK LINKS</h5>
 <ul class="text-white ul mt-4 m-0 p-0" style="list-style-type:none;">
-<li class="mb-3"><a href="" style="text-decoration:none" class="text-white ">About Us</a></li>
-<li class="mb-3"><a href="" style="text-decoration:none" class="text-white ">Services</a></li>
-<li class="mb-3"><a href="" style="text-decoration:none" class="text-white ">Testimonials</a></li>
-<li class="mb-3"><a href="" style="text-decoration:none" class="text-white ">Contact Us</a></li>
+<li class="mb-3"><a href="/about" style="text-decoration:none" class="text-white ">About Us</a></li>
+<li class="mb-3"><a href="/service" style="text-decoration:none" class="text-white ">Services</a></li>
+<li class="mb-3"><a href="/gallery" style="text-decoration:none" class="text-white ">Gallery</a></li>
+<li class="mb-3"><a href="/contact" style="text-decoration:none" class="text-white ">Contact Us</a></li>
 </ul>
 </div>
 <div class="col-12  col-lg-4 col-md-4 mt-5  mb-5 ">

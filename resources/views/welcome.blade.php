@@ -150,31 +150,66 @@
 </div>
 
 <div class="bg">
-    <h1 class="text-center py-5 mb-3">HOW IT WORKS</h1>
- <div class="row container-fluid">
-    <div class="col-12 col-lg-4 col-md-4 mb-4">
-        <center>
-         <i class="fas fa-home fa-2x mb-2"></i>
-         <h6 class="mb-3">FIND PROPERTY.</h6>
-         <p class="">Lorem ipsum dolor sit amet consectetur <br> adipisicing elit.</p>
-        </center>
+<div class="container">
+    <h1 class="text-center py-5 mb-3">Construction work</h1>
+ <div class="row">
+    <div class="col-12 col-lg-3 col-md-3 mb-4 text-center">
+         <img src="{{asset('image/motorway.png')}}" alt="motorway" class="img-fluid w-25 mb-1 h-25">
+         <h4 class="mb-1">Tar Roads </h4>
+         <p class="">We Construct Tar Roads With Your Requirements.</p>
+        
     </div>
 
-     <div class="col-12 col-lg-4 col-md-4 mb-4">
-         <center>
-             <i class="fas fa-dollar-sign fa-2x mb-2"></i>
-             <h6 class="mb-3">BUY PROPERTY.</h6>
-             <p class="">Lorem ipsum dolor sit amet consectetur <br> adipisicing elit.</p>
-         </center>
+     <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
+         
+     <img src="{{asset('image/highway.png')}}" alt="highway" class="img-fluid w-25 mb-1 h-25">
+         <h4 class="mb-1">Tar Driveways </h4>
+         <p class="">We Construct Tar Driveways With Your Requirements.</p>
+        
      </div>
 
-     <div class="col-12 col-lg-4 col-md-4 mb-4">
-         <center>
-             <i class="fas fa-warehouse fa-2x mb-2 "></i>
-             <h6 class="mb-3">OUTSTANDING HOUSES.</h6>
-             <p class="">Lorem ipsum dolor sit amet consectetur <br> adipisicing elit.</p>
-         </center>
+     <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
+         
+     <img src="{{asset('image/hump.png')}}" alt="hump" class="img-fluid w-25 mb-1 h-25">
+         <h4 class="mb-1">Speed Humps </h4>
+         <p class="">We Construct All speed Humps With Your Requirements.</p>
+        
      </div>
+     <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
+         
+     <img src="{{asset('image/car-garage.png')}}" alt="car-garage" class="img-fluid w-25 mb-1 h-25">
+         <h4 class="mb-1">Carports </h4>
+         <p class="">We Construct All type of carports With Your Requirements.</p>
+ </div>
+ <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
+         
+         <img src="{{asset('image/tennis-court.png')}}" alt="tennis-court" class="img-fluid w-25 mb-1 h-25">
+             <h4 class="mb-1">Tennis Courts </h4>
+             <p class="">We Construct Tennis Courts With Your Requirements.</p>
+            
+         </div>
+         <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
+         
+         <img src="{{asset('image/wooden-fence.png')}}" alt="wooden-fence" class="img-fluid w-25 mb-1 h-25">
+             <h4 class="mb-1">Fencing  </h4>
+             <p class="">We make All types of Fencing With Your Requirements.</p>
+            
+         </div>
+         <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
+         
+         <img src="{{asset('image/concrete.png')}}" alt="concrete" class="img-fluid w-25 mb-1 h-25">
+             <h4 class="mb-1">Concrete Driveways </h4>
+             <p class="">We Construct Concrete Driveways With Your Requirements.</p>
+            
+         </div>
+         <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
+         
+         <img src="{{asset('image/fence.png')}}" alt="fence" class="img-fluid w-25 mb-1 h-25">
+             <h4 class="mb-1">Clear View Gates  </h4>
+             <p class="">We make Clear View Gates With Your Requirements.</p>
+            
+         </div>
+ </div>
  </div>
 </div>
 <div class="container mt-5 container-sm">
@@ -184,10 +219,21 @@
 </div>
 <div class="col-12 col-lg-7 col-md-7 mb-4">
 <h1 style="color: rgb(55,207,162)" class=" mb-3">About</h1>
-<h5>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h5>
-<h5>Est qui eos quasi ratione nostrum excepturi id recusandae fugit omnis ullam pariatur itaque nisi voluptas impedit Quo suscipit omnis iste velit maxime.</h5>
-<h5>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h5>
-<h5>Est qui eos quasi ratione nostrum excepturi id recusandae fugit omnis ullam pariatur itaque nisi voluptas impedit Quo suscipit omnis iste velit maxime.</h5>
+<p>We got All Colored
+ 		Board And Granite
+      We CuttingYour Board Your Measurements
+   We Supply All Type Of Meterial For Your House
+  Custom Ceillins and Drawalling Interior Makeovers, Bathroom Renovations and Specialized Lighting
+
+   </p>
+<p>We Make All Type Of Tables (PC Table, Daining Table etc) ANd All Colored Board
+. We Make Your TV Lanch With Your Requiements</p>
+<p>
+ We Building Your Kitchen With Granite And ALl Colored Board
+. We Do Your Design By Our Best Carpenter
+. We Do Your Tiling According Your Size We Have All Type Of Tiles
+. We Make Cupboards All Designs
+. We Make Your Toilet With Your Requirements</p>
 </div>
 </div>
 
