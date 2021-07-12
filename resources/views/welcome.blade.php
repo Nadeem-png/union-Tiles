@@ -41,7 +41,7 @@
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="{{asset('image/img3.jpg')}}" class="img-fluid" alt="New York" width="1100" height="700">
+      <img src="{{asset('image/4.jpg')}}" class="img-fluid" alt="New York" width="1100" height="700">
       <div class="carousel-caption">
       <h3>Buy And Sall Here</h3>
       <p>We had such a great time in LA!</p>
@@ -60,7 +60,7 @@
 <div class="row">
 <div class="col-12 col-lg-4 col-md-6 mb-2">
 <div class="card h-100 ">
-                <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="{{asset('image/img20.jpg')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
                 <h4 class="card-title">HD17 19 UTICA</h4>
                     <p class="card-text">New York - USA</p>
@@ -70,7 +70,7 @@
 </div>
 <div class="col-12 col-lg-4 col-md-6 mb-2">
 <div class="card h-100">
-                <img class="card-img-top" src="{{asset('image/img8.jpg')}}" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="{{asset('image/img23.jpg')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
                 <h4 class="card-title">HD17 19 UTICA</h4>
                     <p class="card-text">New York - USA</p>
@@ -80,7 +80,7 @@
 </div>
 <div class="col-12 col-lg-4 col-md-6 mb-2">
 <div class="card h-100">
-                <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="{{asset('image/img22.jpg')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
                 <h4 class="card-title">HD17 19 UTICA</h4>
                     <p class="card-text">New York - USA</p>
@@ -126,23 +126,23 @@
 <div class="row">
 <div class="col-12 col-lg-4 col-md-4 mb-3">
 <img src="{{asset('image/owner1.jpg')}}" alt="" class="img-fluid">
-<div class="p-4" style="background-color:#37cfa2;">
-<h4>NAME</h4>
-<p>Lorem ipsum dolor sit amet consectetur</p>
+<div class="p-4" style="background-color:rgb(55,207,162);">
+<h4>Late MD Nurul Islam</h4>
+<p>Father of the Company Director</p>
 </div>
 </div>
 <div class="col-12 col-lg-4 col-md-4 mb-3">
 <img src="{{asset('image/owner2.jpg')}}" alt="" class="img-fluid">
-<div class="p-4" style="background-color:#37cfa2;">
-<h4>NAME</h4>
-<p>Lorem ipsum dolor sit amet consectetur</p>
+<div class="p-4" style="background-color:rgb(55,207,162);;">
+<h4>Late MD Nurul Islam</h4>
+<p>Father of the Company Director</p>
 </div>
 </div>
 <div class="col-12 col-lg-4 col-md-4 mb-3">
-<img src="{{asset('image/owner.jpg')}}" alt="" class="img-fluid">
-<div class="p-4" style="background-color:#37cfa2;">
-<h4>NAME</h4>
-<p>Lorem ipsum dolor sit amet consectetur</p>
+<img src="{{asset('image/dir.jpeg')}}" alt="" class="img-fluid ">
+<div class="" style="background-color:rgb(55,207,162); padding:11px 18px;">
+<h4>Ahmed shofi</h4>
+<p>Director of the Company</p>
 </div>
 </div>
 </div>
@@ -411,7 +411,7 @@
 <div class="row">
 <div class="col-12 col-lg-7 col-md-6 mt-5">
 <div class="card p-5">
-<h4>GET IN TOUCH</h4>
+<h4  style="color: rgb(55,207,162)">GET IN TOUCH</h4>
 <form>
 <div class="form-group mt-3">
                             <label style="font-weight: bold;" class="mb-2">Name</label>
@@ -437,11 +437,12 @@
 <div class="card p-4">
 <div class="card-text">
 <h4>Address</h4>
-<p>Location: Shed 3, 13 Hawthorne street kokstad, south Africa</p>
+<p>Location:  shed 3, 13 Hawthorne street kokstad south Africa</p>
 <h4>Phone</h4>
-<p style="color:#079992">+880717454141</p>
+<p style="color: rgb(55,207,162)">Whatsapp number: 0645228255</p>
+<p style="color: rgb(55,207,162)">Office number 039 797 0701</p>
 <h4>Email Address</h4>
-<p style="color:#079992">youremail@domain.com</p>
+<p style="color: rgb(55,207,162)">youremail@domain.com</p>
 </div>
 </div>
 </div>
