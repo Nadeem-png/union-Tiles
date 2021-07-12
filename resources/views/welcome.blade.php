@@ -252,7 +252,7 @@
 </div>
   <div class="col-9 ">
   <h3>Kitchen Work</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  <p>We Building Your Kitchen With Granite And All Colored Board and We Do Your Design By Our Best Carpenter.</p>
   </div>
   </div>
   </div>
@@ -265,7 +265,7 @@
 </div>
   <div class="col-9 ">
   <h3>BedRoom Work</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  <p>We Make Your Bedrooms With Your Requirements and We Do Your Design By Our Best Carpenter</p>
   </div>
   </div>
   </div>
@@ -278,7 +278,7 @@
 </div>
   <div class="col-9 ">
   <h3>Electricity Work</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  <p>Do Electric Work and We Do All your Electricity Work by our best electrician. </p>
   </div>
   </div>
   </div>
@@ -291,7 +291,7 @@
 </div>
   <div class="col-9 ">
   <h3>Lay The Tiles</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  <p>We Do Your Tiling According Your Size We Have All Type Of Tiles</p>
   </div>
   </div>
   </div>
@@ -304,7 +304,7 @@
 </div>
   <div class="col-9 ">
   <h3>Cupboard Work</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  <p>We Make Cupboards All Designs and We Do Your Design By Our Best Carpenter</p>
   </div>
   </div>
   </div>
@@ -317,7 +317,7 @@
 </div>
   <div class="col-9 ">
   <h3>PC Table</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  <p>We Make All Type Of Tables (PC Table, Daining Table etc) And All Colored Board.</p>
   </div>
   </div>
   </div>
@@ -331,7 +331,7 @@
 </div>
   <div class="col-9 ">
   <h3>Toilets Work</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  <p>We Make Your Toilet With Your Requirements and We Do Your Design By Our Best Plumber</p>
   </div>
   </div>
   </div>
@@ -345,7 +345,7 @@
 </div>
   <div class="col-9 ">
   <h3>Lay The Stone</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  <p>We Do Your Tiling According Your Size We Have All Type Of Tiles</p>
   </div>
   </div>
   </div>
@@ -359,7 +359,7 @@
 </div>
   <div class="col-9 ">
   <h3>Sewerage Work</h3>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+  <p>Do Sewerage Work and We Do Your Sewerage Work By Our Best Plumber. </p>
   </div>
   </div>
   </div>
