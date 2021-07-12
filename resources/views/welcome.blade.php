@@ -26,16 +26,18 @@
     <div class="carousel-item active">
       <img src="{{asset('image/img5.jpg')}}" class="img-fluid" alt="Los Angeles" width="1100" height="700">
       <div class="carousel-caption">
-      <h3>Buy And Sall Here</h3>
-      <p>We had such a great time in LA!</p>
+      <h3> KING CUT AND EDGE AND GRANITE
+		</h3>
+      <p> A CUT ABOVE THE MARK</p>
         <button class="btn text-white px-4 py-2" style=" background-color: rgb(55,207,162)">Get started</button>
       </div>   
     </div>
     <div class="carousel-item">
       <img src="{{asset('image/img4.jpg')}}" class="img-fluid" alt="Chicago" width="1100" height="700">
       <div class="carousel-caption">
-      <h3>Buy And Sall Here</h3>
-      <p>We had such a great time in LA!</p>
+      <h3> KING CUT AND EDGE AND GRANITE
+		</h3>
+      <p> A CUT ABOVE THE MARK</p>
         
         <button class="btn text-white px-4 py-2" style=" background-color: rgb(55,207,162)">Get started</button>
       </div>   
@@ -43,8 +45,9 @@
     <div class="carousel-item">
       <img src="{{asset('image/4.jpg')}}" class="img-fluid" alt="New York" width="1100" height="700">
       <div class="carousel-caption">
-      <h3>Buy And Sall Here</h3>
-      <p>We had such a great time in LA!</p>
+      <h3> KING CUT AND EDGE AND GRANITE
+		</h3>
+      <p> A CUT ABOVE THE MARK</p>
         <button class="btn px-4 py-2 text-white" style=" background-color: rgb(55,207,162)">Get started</button>
       </div>   
     </div>
@@ -217,17 +220,21 @@
 <div class="col-12 col-lg-5 col-md-5 mb-3 mt-5">
 <img src="{{asset('image/img3.jpg')}}" alt="" class="img-fluid">
 </div>
-<div class="col-12 col-lg-7 col-md-7 mb-4">
+<div class="col-12 col-lg-7 col-md-7 mb-4" style=" font-family:sans-serif;">
 <h1 style="color: rgb(55,207,162)" class=" mb-3">About</h1>
-<p>We got All Colored
- 		Board And Granite
-      We CuttingYour Board Your Measurements
-   We Supply All Type Of Meterial For Your House
-  Custom Ceillins and Drawalling Interior Makeovers, Bathroom Renovations and Specialized Lighting
+<h5> WELCOME TO TILE AFRICA!</h5>
+<p>
+			  Create Your Dream Home With Us.
+		From Stylish Bathrooms To Seamless Living Spaces
+ 	 Bringing The Outdoors Indoors. We've Got Everything You Need For
+	  Floors, Walls, Bathrooms, Kitchen, Tools, Diy And Decor Advice. 
+	  Trust Us With Your Space, Because With Us, Our Home Is Your Home. 
 
    </p>
-<p>We Make All Type Of Tables (PC Table, Daining Table etc) ANd All Colored Board
-. We Make Your TV Lanch With Your Requiements</p>
+<p>
+			   We Fabricate And Install
+			Kitchen Tops,Vanities,Bar Counters
+     		     and FurnitureIn Granite,Quartz And Marble</p>
 <p>
  We Building Your Kitchen With Granite And ALl Colored Board
 . We Do Your Design By Our Best Carpenter
@@ -241,7 +248,7 @@
 
 
   <div class="div3 bg-light">
-  <div class="container container-sm mt-5">
+  <div class="container container-sm mt-5" style=" font-family:sans-serif;">
   <h1 class="text-center py-5" style="color: rgb(55,207,162)">SERVICES</h1>
   <div class="row">
   <div class="col-12 col-lg-4 col-md-6 mb-3">
@@ -370,7 +377,7 @@
 
 
 
-<div class="container container-sm mt-5">
+<div class="container container-sm mt-5" style=" font-family:sans-serif;">
        <h1 class="text-center" style="color: rgb(55,207,162);margin-top: 200px">Customers</h1>
        <div class="row ">
            <div class="col-12 col-lg-6 col-md-6">
@@ -405,7 +412,7 @@
   
 
   
-<div class="contact bg-light" style="background-color:#ccc;">
+<div class="contact bg-light" style="background-color:#ccc; font-family:sans-serif;">
 <div class="container py-5">
 <h1 class="text-center mt-5" style="color: rgb(55,207,162)">Contact-us</h1>
 <div class="row">

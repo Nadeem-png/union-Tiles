@@ -28,7 +28,7 @@
             text-decoration:none;
             }
             </style>
-<div class="bg-contact">
+<div class="bg-contact" style=" font-family:sans-serif;">
 <div data-aos="fade-up"
      data-aos-anchor-placement="center-center">
      <h1 class="text-center p-5 mt-5 w-100">About us</h1>
@@ -41,14 +41,22 @@
 <div class="row  d-flex flex-xs-row-reverse ">
 <div class="col-12 col-lg-7">
 <h1>Our Story</h1>
-<p> We are a group of friends who are passionate about new technologies. 
-We took an early interest in Bitcoin and started investing in ICOs in late 2017.</p>
+<h4>WELCOME TO TILE AFRICA!</h4>
+<p>  Create Your Dream Home With Us.
+		From Stylish Bathrooms To Seamless Living Spaces
+ 	 Bringing The Outdoors Indoors. We've Got Everything You Need For
+	  Floors, Walls, Bathrooms, Kitchen, Tools, Diy And Decor Advice. 
+	  Trust Us With Your Space, Because With Us, Our Home Is Your Home.  </p>
 
-<p>At the time, the ICO market was in a frenzy. Public sales were often oversubscribed and people were competing for small investing spots.
-Therefore, pools emerged. They were groups of retail investors grouping their contributions to be able to negotiate better terms.
-However, it was very risky because most pool admins were anonymous which meant they could easily disappear with people’s hard earned money.</p>
-<p>This is why we decided to create our own community. To be fully transparent, we shared our social media profiles and showed our faces on video.
-Nowadays, we are humbled to have a vibrant community of supporters, and that is just the beginning!</p>
+<p>
+			    We Fabricate And Install
+			Kitchen Tops,Vanities,Bar Counters
+            <p>
+ We Building Your Kitchen With Granite And ALl Colored Board
+. We Do Your Design By Our Best Carpenter
+. We Do Your Tiling According Your Size We Have All Type Of Tiles
+. We Make Cupboards All Designs
+. We Make Your Toilet With Your Requirements</p>
 </div>
 
 <div class="col-12 col-lg-5">
@@ -66,7 +74,7 @@ Nowadays, we are humbled to have a vibrant community of supporters, and that is 
 <div class="col-12 col-lg-5">
 <img src="{{asset('image/img15.jpg')}}" class="img-fluid mb-2">
 </div>
-<div class="col-12 col-lg-7">
+<div class="col-12 col-lg-7" style=" font-family:sans-serif;">
 <h1>Our Vision</h1>
 <p> In the history of how we exchange value, we have only had 3 major changes: barter, money and finally digital cash. 
 We see crypto as a revolution of the same magnitude. 
@@ -108,7 +116,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
                     <i class="fas fa-tree text-white fa-2x"></i>
                    
                     </div>
-                     <div class="col-12 col-lg-9 text-white">
+                     <div class="col-12 col-lg-9 text-white" style=" font-family:sans-serif;">
                       <h2>Long Term Vision</h2>
                     <p>Most people dream of getting rich fast. Contrarily, 
                     we are patient and have a long-term vision. We constantly improve by learning while staying independent and open-minded.</p>
@@ -125,7 +133,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
                     <i class="fas fa-hands-helping text-white fa-2x"></i>
                    
                     </div>
-                     <div class="col-12 col-lg-9 text-white mb-5">
+                     <div class="col-12 col-lg-9 text-white mb-5" style=" font-family:sans-serif;">
                       <h2>Collaboration</h2>
                     <p>Connecting with people is at the heart of human nature and is necessary for
                     one’s well being. We share knowledge, discuss ideas and challenge opinions to grow together..</p>

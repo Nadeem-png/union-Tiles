@@ -12,8 +12,8 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
     <style>
-body{
-                font-family: "Gill Sans", sans-serif;
+*{
+                font-family:sans-serif;
             }
         .a1{
                 color: white;
@@ -124,13 +124,13 @@ $(document).ready(function(){
 <div class="div container container-sm ">
 <div class="row text-white py-5">
 <div class="col-12 col-lg-4 col-md-5  mt-5">
-<h5 class="text-white">About</h5>
-<p>We got All Colored
- 		Board And Granite
-      We CuttingYour Board Your Measurements
-   We Supply All Type Of Meterial For Your House</p>
-<p>We Make All Type Of Tables (PC Table, Daining Table etc) ANd All Colored Board
-. We Make Your TV Lanch With Your Requiements</p>
+<h5 class="text-white" style=" font-family:sans-serif;">About</h5>
+<p> Create Your Dream Home With Us.
+		From Stylish Bathrooms To Seamless Living Spaces
+ 	 Bringing The Outdoors Indoors. We've Got Everything You Need For
+	  Floors, Walls, Bathrooms, Kitchen, Tools, Diy And Decor Advice. 
+	  Trust Us With Your Space, Because With Us, Our Home Is Your Home.</p>
+
 </div>
 <div class="col-12 col-md-3 col-lg-3 mt-5 mb-5  ">
 <h5 class="text-white">QUICK LINKS</h5>
