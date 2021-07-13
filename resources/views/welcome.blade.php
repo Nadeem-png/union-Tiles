@@ -175,17 +175,17 @@
 <div class="bg">
 <div class="container">
     <h1 class="text-center py-5 mb-3">Construction work</h1>
- <div class="row">
 <div data-aos="fade-up"
      data-aos-duration="3000">
+ <div class="row">
+
     <div class="col-12 col-lg-3 col-md-3 mb-4 text-center">
          <img src="{{asset('image/motorway.png')}}" alt="motorway" class="img-fluid w-25 mb-1 h-25">
          <h4 class="mb-1">Tar Roads </h4>
          <p class="">We Construct Tar Roads With Your Requirements.</p>
         </div>
-    </div>
-<div data-aos="fade-up"
-     data-aos-duration="3000">
+    
+
      <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
          
      <img src="{{asset('image/highway.png')}}" alt="highway" class="img-fluid w-25 mb-1 h-25">
@@ -193,9 +193,7 @@
          <p class="">We Construct Tar Driveways With Your Requirements.</p>
         
      </div>
-</div>
-<div data-aos="fade-up"
-     data-aos-duration="3000">
+
      <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
          
      <img src="{{asset('image/hump.png')}}" alt="hump" class="img-fluid w-25 mb-1 h-25">
@@ -203,18 +201,13 @@
          <p class="">We Construct All speed Humps With Your Requirements.</p>
         
      </div>
-</div>
-<div data-aos="fade-up"
-     data-aos-duration="3000">
      <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
          
      <img src="{{asset('image/car-garage.png')}}" alt="car-garage" class="img-fluid w-25 mb-1 h-25">
          <h4 class="mb-1">Carports </h4>
          <p class="">We Construct All type of carports With Your Requirements.</p>
  </div>
-</div>
-<div data-aos="fade-up"
-     data-aos-duration="3000">
+
  <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
          
          <img src="{{asset('image/tennis-court.png')}}" alt="tennis-court" class="img-fluid w-25 mb-1 h-25">
@@ -222,9 +215,7 @@
              <p class="">We Construct Tennis Courts With Your Requirements.</p>
             
          </div>
-</div>
-<div data-aos="fade-up"
-     data-aos-duration="3000">
+
          <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
          
          <img src="{{asset('image/wooden-fence.png')}}" alt="wooden-fence" class="img-fluid w-25 mb-1 h-25">
@@ -232,9 +223,7 @@
              <p class="">We make All types of Fencing With Your Requirements.</p>
             
          </div>
-</div>
-<div data-aos="fade-up"
-     data-aos-duration="3000">
+
          <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
          
          <img src="{{asset('image/concrete.png')}}" alt="concrete" class="img-fluid w-25 mb-1 h-25">
@@ -242,9 +231,7 @@
              <p class="">We Construct Concrete Driveways With Your Requirements.</p>
             
          </div>
-</div>
-<div data-aos="fade-up"
-     data-aos-duration="3000">
+
          <div class="col-12 col-lg-3 col-md-3  mb-4 text-center">
          
          <img src="{{asset('image/fence.png')}}" alt="fence" class="img-fluid w-25 mb-1 h-25">
@@ -286,13 +273,15 @@
 . We Make Your Toilet With Your Requirements</p>
 </div>
 </div>
-
+</div>
 </div>
 
 
   <div class="div3 bg-light">
   <div class="container container-sm mt-5" style=" font-family:sans-serif;">
   <h1 class="text-center py-5" style="color: rgb(55,207,162)">SERVICES</h1>
+<div data-aos="fade-up"
+     data-aos-duration="3000">
   <div class="row">
   <div class="col-12 col-lg-4 col-md-6 mb-3">
   <div class="container">
@@ -417,6 +406,7 @@
   </div>
   </div>
   </div>
+</div>
 </div>
 
 
