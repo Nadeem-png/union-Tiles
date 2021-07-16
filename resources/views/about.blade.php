@@ -154,9 +154,9 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
     <img class="card-img-top img-fluid" src="{{asset('image/img5.jpg')}}" alt="Card image">
     <div class="card-body">
     
-   <center> <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/man1.webp')}}" alt="Card image" height="120px" width="120px"> </center> 
-      <h4 class="card-title text-center mt-2">Alexandre Raffin</h4>
-      <h6 class="card-text text-center">CEO & Co-Founder</h6>
+   <center> <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/team.jpg')}}" alt="Card image" height="120px" width="120px"> </center> 
+      <h4 class="card-title text-center mt-2">Isaak</h4>
+      <h6 class="card-text text-center">Carpenter</h6>
        <p class="text-center"><i class="fab fa-linkedin-in  text-primary fa-2x"></i></p>
       
    
@@ -172,9 +172,9 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
     <img class="card-img-top img-fluid" src="{{asset('image/img4.jpg')}}" alt="Card image">
     <div class="card-body">
     
-   <center> <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/man2.webp')}}" alt="Card image" height="120px" width="120px"> </center> 
-      <h4 class="card-title text-center mt-2">Alexandre Raffin</h4>
-      <h6 class="card-text text-center">CEO & Co-Founder</h6>
+   <center> <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/team1.jpg')}}" alt="Card image" height="120px" width="120px"> </center> 
+      <h4 class="card-title text-center mt-2">John mello</h4>
+      <h6 class="card-text text-center">Carpenter</h6>
        <p class="text-center"><i class="fab fa-linkedin-in  text-primary fa-2x"></i></p>
       
    
@@ -190,9 +190,9 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
     <img class="card-img-top img-fluid" src="{{asset('image/img2.jpg')}}" alt="Card image">
     <div class="card-body">
     
-   <center> <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/man3.webp')}}" alt="Card image" height="120px" width="120px"> </center> 
-      <h4 class="card-title text-center mt-2">Alexandre Raffin</h4>
-      <h6 class="card-text text-center">CEO & Co-Founder</h6>
+   <center> <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/team2.jpg')}}" alt="Card image" height="120px" width="120px"> </center> 
+      <h4 class="card-title text-center mt-2">Vincent</h4>
+      <h6 class="card-text text-center">Carpenter</h6>
        <p class="text-center"><i class="fab fa-linkedin-in  text-primary fa-2x"></i></p>
       
    
