@@ -65,11 +65,9 @@
 <div data-aos="fade-up"
      data-aos-duration="3000">
 <div class="card h-100 ">
-                <img class="card-img-top" src="{{asset('image/img20.jpg')}}" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="{{asset('image/s8.png')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
-                <h4 class="card-title">HD17 19 UTICA</h4>
-                    <p class="card-text">New York - USA</p>
-                    <p>$2000</p>
+                <h4 class="card-title">BELLA ROSE</h4>
                 </div>
             </div>
 </div>
@@ -78,11 +76,10 @@
 <div data-aos="fade-up"
      data-aos-duration="3000">
 <div class="card h-100">
-                <img class="card-img-top" src="{{asset('image/img23.jpg')}}" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="{{asset('image/s12.png')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
-                <h4 class="card-title">HD17 19 UTICA</h4>
-                    <p class="card-text">New York - USA</p>
-                    <p>$2000</p>
+                <h4 class="card-title">BLACK GALAXY</h4>
+                   
                 </div>
 </div>
             </div>
@@ -91,11 +88,10 @@
 <div data-aos="fade-up"
      data-aos-duration="3000">
 <div class="card h-100">
-                <img class="card-img-top" src="{{asset('image/img22.jpg')}}" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="{{asset('image/s7.png')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
-                <h4 class="card-title">HD17 19 UTICA</h4>
-                    <p class="card-text">New York - USA</p>
-                    <p>$2000</p>
+                <h4 class="card-title">BELLA BLANCO</h4>
+                    
                 </div>
             </div>
 </div>
@@ -104,11 +100,10 @@
 <div data-aos="fade-up"
      data-aos-duration="3000">
 <div class="card h-100 ">
-                <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="{{asset('image/img30.jpg')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
-                <h4 class="card-title">HD17 19 UTICA</h4>
-                    <p class="card-text">New York - USA</p>
-                    <p>$2000</p>
+                <h4 class="card-title">BED ROOM</h4>
+                   
                 </div>
             </div>
 </div>
@@ -117,11 +112,10 @@
 <div data-aos="fade-up"
      data-aos-duration="3000">
 <div class="card h-100">
-                <img class="card-img-top" src="{{asset('image/img8.jpg')}}" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="{{asset('image/img31.jpg')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
-                <h4 class="card-title">HD17 19 UTICA</h4>
-                    <p class="card-text">New York - USA</p>
-                    <p>$2000</p>
+                <h4 class="card-title">TV LAUNCH</h4>
+                   
                 </div>
 </div>
             </div>
@@ -130,11 +124,10 @@
 <div data-aos="fade-up"
      data-aos-duration="3000">
 <div class="card h-100">
-                <img class="card-img-top" src="{{asset('image/img7.jpg')}}" alt="Card image" style="width:100%">
+                <img class="card-img-top" src="{{asset('image/1.jpg')}}" alt="Card image" style="width:100%">
                 <div class="card-body">
-                <h4 class="card-title">HD17 19 UTICA</h4>
-                    <p class="card-text">New York - USA</p>
-                    <p>$2000</p>
+                <h4 class="card-title">KITCHEN</h4>
+                   
                 </div>
             </div>
 </div>
