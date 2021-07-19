@@ -10,11 +10,16 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-   
- <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
-    <style>
+   <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+      
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=STIX+Two+Math&display=swap" rel="stylesheet">
+
+ <style>
 *{
-                font-family:sans-serif;
+                font-family: 'STIX Two Math', serif;
             }
         .a1{
                 color: white;
@@ -140,7 +145,7 @@ $(document).ready(function(){
 <div class="div container container-sm ">
 <div class="row text-white py-5">
 <div class="col-12 col-lg-4 col-md-5  mt-5">
-<h5 class="text-white" style=" font-family:sans-serif;">About</h5>
+<h5 class="text-white">About</h5>
 <p> Create Your Dream Home With Us.
 		From Stylish Bathrooms To Seamless Living Spaces
  	 Bringing The Outdoors Indoors. We've Got Everything You Need For
