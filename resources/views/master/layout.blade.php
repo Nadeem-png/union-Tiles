@@ -36,7 +36,7 @@
 .back-to-top {
  position: fixed;
  bottom: 30px;
- right: 12px;
+ Left: 12px;
  width: 64px;
  height: 64px;
  z-index: 9999;
@@ -48,6 +48,17 @@
 
 .back-to-top:hover{
  opacity: 0.7;
+}
+.whatsapp{
+ position: fixed;
+ bottom: 30px;
+ right: 12px;
+ width: 64px;
+ height: 64px;
+ z-index: 9999;
+ cursor: pointer;
+ text-decoration: none;
+ transition: opacity 0.2s ease-out;
 }
 .footer{
     background-color:#333;
@@ -123,6 +134,7 @@ $(document).ready(function(){
 
 <!-- Back to top -->
 <a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-2x text-center p-2 text-dark" style="background-color:rgb(55,207,162);" ></i></a>
+<a href="/whatsapp" class="whatsapp" ><img src="{{asset('image/whatsapp.png')}}" alt="" class="img-fluid " height="70px" width="70px"></a>
 
 <footer class="footer">
 <div class="div container container-sm ">
