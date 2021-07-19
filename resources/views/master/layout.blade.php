@@ -37,8 +37,8 @@
  position: fixed;
  bottom: 30px;
  Left: 12px;
- width: 64px;
- height: 64px;
+ width: 55px;
+ height: 55px;
  z-index: 9999;
  cursor: pointer;
  text-decoration: none;
@@ -53,8 +53,8 @@
  position: fixed;
  bottom: 30px;
  right: 12px;
- width: 64px;
- height: 64px;
+ width: 55px;
+ height: 55px;
  z-index: 9999;
  cursor: pointer;
  text-decoration: none;
@@ -134,7 +134,7 @@ $(document).ready(function(){
 
 <!-- Back to top -->
 <a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-2x text-center p-2 text-dark" style="background-color:rgb(55,207,162);" ></i></a>
-<a href="/whatsapp" class="whatsapp" ><img src="{{asset('image/whatsapp.png')}}" alt="" class="img-fluid " height="70px" width="70px"></a>
+<a href="/whatsapp" class="whatsapp" ><img src="{{asset('image/whatsapp.png')}}" alt="" class="img-fluid " height="55px" width="55px"></a>
 
 <footer class="footer">
 <div class="div container container-sm ">
