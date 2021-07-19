@@ -21,9 +21,9 @@
 <body>
 <h1>Click on Whatsapp Button</h1>
     <div class="myk-wa">
-        <div class="myk-item" data-wanumber="+270645228255" data-waname="whatsapp" data-wadivision="office" data-waava="images/user.png"></div>
-        <div class="myk-item" data-wanumber="+270645228255" data-waname="whatsapp" data-wadivision="office" data-waava="images/user.png"></div>
-        <div class="myk-item" data-wanumber="+270645228255" data-waname="whatsapp" data-wadivision="office" data-waava="images/user.png"></div>
+        <div class="myk-item" data-wanumber="+270645228255" data-waname="office number" data-wadivision="click" data-waava="images/user.png"></div>
+        <div class="myk-item" data-wanumber="+270645228255" data-waname="office number" data-wadivision="click" data-waava="images/user.png"></div>
+        <div class="myk-item" data-wanumber="+270645228255" data-waname="office number" data-wadivision="click" data-waava="images/user.png"></div>
 
         <!-- few more whatsapp accounts -->
     </div>
