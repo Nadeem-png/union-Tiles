@@ -79,7 +79,7 @@
 <hr>
 <p class="py-4 text-center">
 You can also reach us at
-<a href=""> kingboardgranite@gmail.com
+<a href="mailto:kingboardgranite@gmail.com"> kingboardgranite@gmail.com
 </a></p>
 @endsection
 @section('title','contact')
