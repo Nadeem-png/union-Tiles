@@ -36,7 +36,7 @@
 .back-to-top {
  position: fixed;
  bottom: 30px;
- left: 12px;
+ right: 12px;
  width: 64px;
  height: 64px;
  z-index: 9999;
