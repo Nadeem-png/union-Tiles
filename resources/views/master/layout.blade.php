@@ -153,7 +153,7 @@ $(document).ready(function(){
 	  Trust Us With Your Space, Because With Us, Our Home Is Your Home.</p>
 
 </div>
-<div class="col-12 col-md-3 col-lg-3 mt-5 mb-5  ">
+<div class="col-12 col-md-3 col-lg-3 mt-5  ">
 <h5 class="text-white">QUICK LINKS</h5>
 <ul class="text-white ul mt-4 m-0 p-0" style="list-style-type:none;">
 <li class="mb-3"><a href="/about" style="text-decoration:none" class="text-white ">About Us</a></li>
@@ -162,10 +162,10 @@ $(document).ready(function(){
 <li class="mb-3"><a href="/contact" style="text-decoration:none" class="text-white ">Contact Us</a></li>
 </ul>
 </div>
-<div class="col-12  col-lg-4 col-md-4 mt-5  mb-5 ">
+<div class="col-12  col-lg-4 col-md-4 mt-5  mb-3">
 <h5 class="text-white">SUBSCRIBE NEWSLETTER</h5>
 <form>
-<div class="input-group mb-b mt-4">
+<div class="input-group  mt-4">
 <input type="text" placeholder="Enter Email" class="form-control border-secondary text-white bg-transparent">
 <div class="input-group-append">
 <button class="btn text-white" type="button" id="" style=" background-color: rgb(55,207,162)">send</button>
@@ -175,7 +175,7 @@ $(document).ready(function(){
 
 </form>
 
-<h5 class="text-white mt-4 mb-3 ">FOLLOW US</h5>
+<h5 class="text-white mt-4 mb-2 ">FOLLOW US</h5>
 
 <a href="https://www.facebook.com/585467618175415/posts/4007273682661441/" class=" ">
             <i class="fab fa-twitter text-white" style="font-size: 20px"></i>
