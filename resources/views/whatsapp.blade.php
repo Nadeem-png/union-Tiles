@@ -23,7 +23,7 @@
     <div class="myk-wa">
         <div class="myk-item" data-wanumber="0645228255" data-waname="whatsapp" data-wadivision="office" data-waava="images/user.png"></div>
         <div class="myk-item" data-wanumber="0645228255" data-waname="whatsapp" data-wadivision="office" data-waava="images/user.png"></div>
-        <div class="myk-item" data-wanumber="0645228255" data-waname="whatsapp" data-wadivision="office" data-waava="images/user.png"></div>
+        <div class="myk-item" data-wanumber="+923017334787" data-waname="whatsapp" data-wadivision="office" data-waava="images/user.png"></div>
 
         <!-- few more whatsapp accounts -->
     </div>
