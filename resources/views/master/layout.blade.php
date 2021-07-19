@@ -10,7 +10,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+   
+ <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
     <style>
 *{
                 font-family:sans-serif;
@@ -35,7 +36,7 @@
 .back-to-top {
  position: fixed;
  bottom: 30px;
- right: 12px;
+ left: 12px;
  width: 64px;
  height: 64px;
  z-index: 9999;
@@ -84,7 +85,7 @@ $(document).ready(function(){
 <nav class="navbar nav1 fixed-top   navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640 ">
 <div class="w-25">
         <a href="/" class="navbar-brand">
-            <img src="{{asset('image/KINGS Board and GRANITE-1.png')}}" class="img-fluid  " style="margin-left:50px;width:65px; height:65px">
+            <img src="{{asset('image/KINGS Board and GRANITE.png')}}" class="img-fluid  " style="margin-left:50px;width:60px; height:60px">
         </a>
     </div>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars text-white"></i></button>
@@ -108,6 +109,9 @@ $(document).ready(function(){
 
             <li class="nav-item" @yield('nave')>
                 <a href="/gallery" class="nav-link a1 ml-5 font-weight-bold">Gallery</a>
+            </li>
+            <li class="nav-item" @yield('nave')>
+                <a href="/whatsapp" class="nav-link a1 ml-5 font-weight-bold">Whatsapp</a>
             </li>
 
 

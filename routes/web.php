@@ -28,3 +28,6 @@ Route::get('/service', function () {
 Route::get('/gallery', function () {
     return view('gallery');
 });
+Route::get('/whatsapp', function () {
+    return view('whatsapp');
+});

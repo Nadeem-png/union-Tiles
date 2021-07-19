@@ -1,4 +1,5 @@
 @extends('master/layout')
+@extends('whatsapp')
 @section('content')
 <style>
 /* Only for demo purposes. */
