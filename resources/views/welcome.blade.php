@@ -481,7 +481,7 @@
 <p style="color: rgb(55,207,162)">Whatsapp number: 0645228255</p>
 <p style="color: rgb(55,207,162)">Office number 039 797 0701</p>
 <h4>Email Address</h4>
-<p style="color: rgb(55,207,162)">youremail@domain.com</p>
+<p style="color: rgb(55,207,162)">ahmedshofisa@gmail.com</p>
 </div>
 </div>
 </div>
