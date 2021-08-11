@@ -139,7 +139,7 @@ $(document).ready(function(){
 @yield('content')
 
 <!-- Back to top -->
-<a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-2x text-center p-2 text-dark" style="background-color:rgb(55,207,162);" ></i></a>
+<a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-1x text-center p-2 text-dark" style="background-color:rgba(55,207,162,0.6);" ></i></a>
 <a href="/whatsapp" class="whatsapp" ><img src="{{asset('image/whatsapp.png')}}" alt="" class="img-fluid " height="55px" width="55px"></a>
 
 <footer class="footer">
